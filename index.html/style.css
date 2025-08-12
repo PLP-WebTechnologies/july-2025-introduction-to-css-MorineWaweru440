@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affordable Housing in Meru</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Affordable Housing in Meru</h1>
+        <p>Your dream home awaits!</p>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We are dedicated to providing affordable housing solutions in Meru. Our mission is to help families find their perfect home without breaking the bank.</p>
+        </section>
+
+        <section id="properties">
+            <h2>Our Properties</h2>
+            <ul>
+                <li>3 Bedroom House - sh 50,000</li>
+                <img src="https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg" alt="3 Bedroom House" width="200">
+                <li>2 Bedroom House - sh 40,000</li>
+                <img src="https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg" alt="2 Bedroom House" width="200">
+                <li>2 Bedroom Apartment - sh30,000</li>
+                <img src="https://images.pexels.com/photos/210265/pexels-photo-210265.jpeg" alt="2 Bedroom Apartment" width="200">
+                <li>1 Bedroom Studio - sh20,000</li>
+                <img src="https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg" alt="1 Bedroom Studio" width="200">
+            </ul>
+        </section>
+<div>Come invest with us.Your trusted platform</div>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="affordable.housing@gmail.com"></a>
+
+</html>
